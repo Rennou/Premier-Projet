@@ -1,7 +1,7 @@
 
 public class factorielle {
     public static void main(String[] args) {
-int x1=1;
+int x1=10;
         int factoriel = 1;
         int valeur;
         valeur = Integer.parseInt(args[0]);
